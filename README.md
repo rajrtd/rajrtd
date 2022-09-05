@@ -52,6 +52,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajrtd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  ---
- ### Contact 📫 
+ ### 📫 Contact  
  [![Linkedin Badge](https://img.shields.io/badge/-Raj_Rathod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajrtd/)
  
