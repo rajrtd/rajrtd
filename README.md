@@ -16,7 +16,7 @@
   
   ### :man_technologist: About Me 
   
-- I'm interested in fullstack, mobile, and blockchain development.
+- I'm interested in fullstack (I prefer working in the back-end), mobile, and blockchain development.
 
 - 🔭 I’m currently working on an NFT blockchain project.
 
