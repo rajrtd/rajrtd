@@ -5,10 +5,6 @@
  </h1>
  
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rajrtd/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -21,8 +17,6 @@
 - 🔭 I’m currently working on an NFT blockchain project.
 
 - 🌱 I’m currently learning Solidity, MERN stack, and git workflow.
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajrtd/)
 
 - ⚡ Fun fact: I'm incredibly interested in ethics behind the rapid development of technology. Stuff like NeuraLink, NEOM, AI in warfare.
 
@@ -57,4 +51,7 @@
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajrtd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  
+ ---
+ ### Contact 📫 
+ [![Linkedin Badge](https://img.shields.io/badge/-Raj_Rathod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajrtd/)
+ 
