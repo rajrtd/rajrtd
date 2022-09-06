@@ -4,8 +4,9 @@
 Pronouns: he/him
  </h1>
  
- ### Glad to see you're here!
+ ### 
 <div id="badges" align="center">
+  Glad to see you're here!
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
 </div>
 
