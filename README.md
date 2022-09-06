@@ -6,7 +6,7 @@ Pronouns: he/him
  
  ### 
 <div id="badges" align="center">
-  Glad to see you're here!
+  <b>Glad to see you're here!</b>
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -24,7 +24,7 @@ Pronouns: he/him
 
 ---
   
-  ### My Stats
+  ### 📈 My Stats 
   ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
  ---
