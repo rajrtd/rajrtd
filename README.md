@@ -4,7 +4,6 @@
 Pronouns: he/him
  </h1>
  
- ### 
 <div id="badges" align="center">
   <b>Glad to see you're here!</b>
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
@@ -27,6 +26,7 @@ Pronouns: he/him
   ### 📈 My Stats 
   ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
+
  ---
  
   ### :hammer_and_wrench: Languages and Tools I Have Experience With
