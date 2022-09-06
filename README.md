@@ -14,11 +14,11 @@ Pronouns: he/him
   
   ### :man_technologist: About Me 
   
-- I'm interested in fullstack (I prefer working in the back-end), mobile, and blockchain development.
+- 💻 I'm interested in fullstack (I prefer working in the back-end), mobile, and blockchain development.
 
 - 🔭 I’m currently working on an NFT blockchain project.
 
-- 🌱 I’m currently learning Solidity, MERN stack, and git workflow.
+- 🌱 I’m currently learning Solidity, the MERN stack, and git workflows.
 
 - ⚡ Fun fact: I'm incredibly interested in ethics behind the rapid development of technology. Stuff like NeuraLink, NEOM, AI in warfare.
 
