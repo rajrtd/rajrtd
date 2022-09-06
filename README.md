@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hi there 👋 I'm Raj
+  Hi there, I'm Raj 👋
   <br>
-😄 Pronouns: he/him
+Pronouns: he/him
  </h1>
  
+ ### Glad to see you're here!
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
 </div>
@@ -22,7 +23,12 @@
 
 ---
   
- ### :hammer_and_wrench: Languages and Tools I Have Experience With
+  ### My Stats
+  ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
+ ---
+ 
+  ### :hammer_and_wrench: Languages and Tools I Have Experience With
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,16 +48,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
 </div>
+
+  ---
   
----
-  
-  ### My Stats
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajrtd&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajrtd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- ---
  ### 📫 Contact  
  [![Linkedin Badge](https://img.shields.io/badge/-Raj_Rathod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajrtd/)
  
