@@ -3,7 +3,7 @@
   <br>
 Pronouns: he/him
  </h1>
- 
+ 🇮🇳🇳🇿
 <div id="badges" align="center">
   <b>Glad to see you're here!</b>
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
@@ -20,6 +20,12 @@ Pronouns: he/him
 - 🌱 I’m currently learning Solidity, the MERN stack, and git workflows.
 
 - ⚡ Fun fact: I'm incredibly interested in ethics behind the rapid development of technology. Stuff like NeuraLink, NEOM, AI in warfare.
+
+---
+
+👷🏽 Projects
+
+🚧 Under Construction 🚧
 
 ---
   
