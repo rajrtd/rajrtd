@@ -15,7 +15,7 @@ Pronouns: he/him
   
 - 💻 I'm interested in fullstack (I prefer working in the back-end), mobile, and blockchain development.
 
-- 🔭 I’m currently working on an NFT blockchain project.
+- 🔭 I’m currently working on an NFT blockchain project and an android application that works with a drone to conduct a stocktake.
 
 - 🌱 I’m currently learning Solidity, the MERN stack, and git workflows.
 
