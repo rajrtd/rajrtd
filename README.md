@@ -2,8 +2,9 @@
   Hi there, I'm Raj 👋
   <br>
 Pronouns: he/him
+  <br>
+   🇮🇳 🇳🇿
  </h1>
- 🇮🇳🇳🇿
 <div id="badges" align="center">
   <b>Glad to see you're here!</b>
   <img src="https://komarev.com/ghpvc/?username=rajrtd&style=flat-square&color=blue" alt=""/>
