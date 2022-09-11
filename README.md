@@ -29,7 +29,7 @@ Pronouns: he/him
 
 ---
   
-  ### 📈 My Stats 
+  ### 📈 My GitHub Stats 
   ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
 
