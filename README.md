@@ -18,13 +18,15 @@
 
 - I’m currently learning Amazon Web Services' cloud services and the serverless framework to host websites using Amazon's services.
 
+- Here's a [link](https://github.com/rajrtd/awsrestart) to some of the things I've been learning recently.
+
 ---
 
 ## Projects
 
 - To-do List
 
-- Automated Birthday Message Texts
+- [Automated Birthday Message Texts](https://github.com/rajrtd/happybirthday-app)
 
 - Movie Rating Web Scrapper
 
