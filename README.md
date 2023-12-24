@@ -20,11 +20,11 @@
 
 ## Projects
 
-To-do List
+- To-do List
 
-Automated Birthday Message Texts
+- Automated Birthday Message Texts
 
-Movie Rating Web Scrapper
+- Movie Rating Web Scrapper
 
 ---
   
