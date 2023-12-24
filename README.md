@@ -14,7 +14,7 @@
   
 - I'm interested in back end development and data engineering.
 
-- I’m currently working on my To-do list, automated birthday messages, and web scrapper apps.
+- I’m currently working on a to-do list app, automated birthday texts app, and web scrapper app.
 
 - I’m currently learning Amazon Web Services' cloud services and the serverless framework to host websites using Amazon's services.
 
