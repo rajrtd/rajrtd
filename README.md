@@ -12,9 +12,9 @@
   
 - I'm interested in back end development and data engineering.
 
-- I’m currently working on an NFT blockchain project and an android application that works with a drone to conduct a stocktake.
+- I’m currently working on my To-do list, automated birthday messages, and web scrapper apps.
 
-- I’m currently learning Solidity, the MERN stack, and git workflows.
+- I’m currently learning Amazon Web Services' cloud services and the serverless framework to host websites using Amazon's services.
 
 ---
 
