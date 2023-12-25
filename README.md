@@ -16,7 +16,7 @@
 
 - I’m currently working on a to-do list app, automated birthday texts app, and web scrapper app.
 
-- I’m currently learning Amazon Web Services' cloud services and the serverless framework to host websites using Amazon's services.
+- I’m currently learning cloud services for Amazon Web Services and the serverless framework.
 
 - Here's a [link](https://github.com/rajrtd/awsrestart) to some of the things I've been learning recently.
 
