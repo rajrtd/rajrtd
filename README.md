@@ -34,7 +34,7 @@
   
   ## My GitHub Stats 
   ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/rajrtd/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
 
  ---
  
@@ -72,6 +72,7 @@
   
   ### Operating Systems
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 
   ### Version Control
