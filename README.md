@@ -28,7 +28,7 @@
 
 - [Automated Birthday Message Texts](https://github.com/rajrtd/happybirthday-app)
 
-- Movie Rating Web Scrapper
+- Movie Ratings Web Scrapper
 
 ---
   
