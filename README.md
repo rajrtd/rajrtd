@@ -17,7 +17,7 @@
 - I’m currently working on a to-do list app, automated birthday texts app, and web scrapper app.
 
 - I’m currently learning cloud services for Amazon Web Services and the serverless framework.
-- 
+
 - I'm learning [React](https://github.com/rajrtd/learning-react) with Typescript using Vite.
   
 - I'm learning how to make [backends](https://github.com/rajrtd/awsrestart/blob/master/python_sql_homework/main.py)
