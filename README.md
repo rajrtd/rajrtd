@@ -18,8 +18,11 @@
 
 - I’m currently learning cloud services for Amazon Web Services and the serverless framework.
 
-- Here's a [link](https://github.com/rajrtd/awsrestart) to some of the things I've been learning recently.
-
+- Here's a to some of the things I've been learning recently.
+- I'm learning [React](https://github.com/rajrtd/learning-react) with Typescript using Vite.
+- I'm learning how to make [backends](https://github.com/rajrtd/awsrestart/blob/master/python_sql_homework/main.py)
+  with Python using FastAPI and using SQLite as the database. Within this I'm learning concepts of data transfer        objects, data access objects and the oject relational model.
+- I've also learnt how to use [PyTest](https://github.com/rajrtd/awsrestart/blob/master/homework8_Inventory_Items/test_fixture.py) for testing in Python.
 ---
 
 ## Projects
