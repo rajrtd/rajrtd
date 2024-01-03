@@ -36,6 +36,14 @@
 
 - Movie Ratings Web Scrapper
 
+### Outdated Projects
+
+- [Maori art NFT web app](https://github.com/rajrtd/nft-app)
+
+- [Blockchain To-do list web app](https://github.com/rajrtd/todolist-blockchain-app)
+
+- [NFC mobile app](https://github.com/rajrtd/AT-HOP-NFC-Project)
+
 ---
   
   ## My GitHub Stats 
