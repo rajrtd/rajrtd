@@ -99,4 +99,10 @@
   
  ### Contact  
  [![Linkedin Badge](https://img.shields.io/badge/-Raj_Rathod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajrtd/)
+
+ ```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
  
