@@ -12,7 +12,7 @@
   
   ## About Me 
   
-- I'm interested in back end development and data engineering.
+- I'm interested in cloud development/back end development/data engineering.
 
 - I’m currently working on a to-do list app, automated birthday texts app, and web scrapper app.
 
